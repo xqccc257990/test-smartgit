@@ -1,4 +1,0 @@
-npm set registry http://npm.zeei.com.cn:4873
-npm i
-npm run init
-npm run dev
